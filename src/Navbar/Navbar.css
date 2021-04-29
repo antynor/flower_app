@@ -1,5 +1,5 @@
 .navBar{
-    background: linear-gradient(90deg, rgb(12,205,245), rgba(76,99,453,1));
+    background: linear-gradient(90deg, rgb(79, 165, 112), rgba(79,175,120,1));
     height: 80px;
     display: flex;
     justify-content: center;
@@ -85,7 +85,7 @@
         display: table;
     }
     .nav-links:hover{
-        background-color: teal;
+        background-color: rgb(79, 165, 112);
         border-radius: 0;
     }
 
